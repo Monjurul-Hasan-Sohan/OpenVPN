@@ -1,2 +1,2 @@
 # OpenVPN
-.opvn file might change in future.
+.opvn file might change in the future.
